@@ -1,5 +1,8 @@
-package com.ruthwik.parkinglot;
+package com.ruthwik;
 
+import com.ruthwik.parkinglot.ParkingLot;
+import com.ruthwik.parkinglot.Ticket;
+import com.ruthwik.parkinglot.Vehicle;
 import com.ruthwik.parkinglot.vehicle.Car;
 
 public class Main {
